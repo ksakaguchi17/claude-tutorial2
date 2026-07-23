@@ -1,0 +1,15 @@
+{
+  "language": "japanese",
+  "permissions": {
+    "allow": [
+      "Bash(npm run:*)",
+      "Bash(npm ls)",
+      "Bash(npm install)",
+      "Bash(npx:*)",
+      "Bash(git:*)",
+      "Bash(ls:*)",
+      "Bash(playwright:*)"
+    ],
+    "deny": ["Bash(rm:*)"]
+  }
+}
