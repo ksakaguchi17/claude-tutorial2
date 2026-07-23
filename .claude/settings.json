@@ -10,6 +10,10 @@
       "Bash(ls:*)",
       "Bash(playwright:*)"
     ],
-    "deny": ["Bash(rm:*)"]
+    "deny": ["Bash(rm:*)"],
+    "attribution": {
+    "commit": "Co-authored-by: Claude <noreply@anthropic.com>",
+    "pr": "Generated with Claude Code"
+  },
   }
 }
